@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing log in reducerCity service return hotels 1`] = `
+Array [
+  Object {
+    "city": "Bogota",
+    "type": "SET_CITY",
+  },
+]
+`;
+
+exports[`Testing log in reducerCity set city in state 1`] = `
+Array [
+  Object {
+    "city": "Bogota",
+    "type": "SET_CITY",
+  },
+]
+`;

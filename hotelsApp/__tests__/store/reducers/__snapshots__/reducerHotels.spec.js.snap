@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing log in reducerHotels service return hotels 1`] = `
+Array [
+  Object {
+    "hotels": Array [
+      Object {
+        "name": "Hotel prueba",
+      },
+    ],
+    "type": "SET_HOTELS",
+  },
+]
+`;

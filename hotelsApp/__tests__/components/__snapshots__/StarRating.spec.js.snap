@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/icons/star-gold.png",
+      }
+    }
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/icons/star-gold.png",
+      }
+    }
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/icons/star-gold.png",
+      }
+    }
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/icons/star-gold.png",
+      }
+    }
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  />
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/icons/star-gold.png",
+      }
+    }
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  />
+</View>
+`;

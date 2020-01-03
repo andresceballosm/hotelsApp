@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "borderRadius": 20,
+      "height": 45,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 200,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": undefined,
+        "fontSize": 16,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`renders correctly 2`] = `
+<View
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/icons/down.png",
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing set Loading start loading 1`] = `
+Array [
+  Object {
+    "type": "SET_LOADING",
+  },
+]
+`;
+
+exports[`Testing stop Loading stop loading 1`] = `
+Array [
+  Object {
+    "type": "STOP_LOADING",
+  },
+]
+`;
